@@ -3,11 +3,11 @@ Tenshi is an multi-purpose discord bot written in Discord.js (NodeJS). Bot comes
 
 # Features
 
-> Custom Status 
-> Slash commands
-> Economy (Leveling)
-> Moderation
-> Fun
+Custom Status 
+Slash commands
+Economy (Leveling)
+Moderation
+Fun
 
 # Sponsors
 *soon*
